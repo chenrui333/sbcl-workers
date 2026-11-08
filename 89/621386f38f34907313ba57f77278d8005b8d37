@@ -1,0 +1,18 @@
+README.org
+  h_9df9c32c3f321d 11-14
+source/package.lisp
+  h_9df9c32c3f321d 33-39
+tests/host-callbacks-tests.lisp
+  h_9df9c32c3f321d 112-123,132
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "89621386f38f34907313ba57f77278d8005b8d37",
+  "prompts": {},
+  "humans": {
+    "h_9df9c32c3f321d": {
+      "author": "Rui Chen <rui@chenrui.dev>"
+    }
+  }
+}
